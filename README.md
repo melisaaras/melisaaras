@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://i.pinimg.com/736x/9c/2f/9d/9c2f9dd5983bf7a8e69deb033bd89745.jpg">
 
-<!--
-**melisaaras/melisaaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, 👋🏼 I'm Melisa Aras</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Full Stack Java Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">I’m a Full Stack Developer who enjoys working with technologies like Java, React, and Spring Boot. I place great importance on code quality and writing clean, efficient code in my projects. I’m always open to learning and discovering new technologies. The projects I share here are a part of my growth journey!</p>
+
+<ul>
+  <li>🔍 Interested in clean code, problem-solving, and exploring the latest trends in software development.  </li>
+  <li>🌍 I love collaborating on open-source projects and sharing knowledge with the dev community.</li>
+  <li>📖 When I’m not coding, I spend my time reading articles about IT, improving my English, or solving HackerRank challenges.</li>
+    
+
+  
+  </ul>
+</p>
