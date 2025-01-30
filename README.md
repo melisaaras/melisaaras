@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/9c/2f/9d/9c2f9dd5983bf7a8e69deb033bd89745.jpg" style=" object-fit: contain;">
+<img src="https://i.pinimg.com/736x/92/76/d8/9276d87f99cbcfa210960241ea4f7b01.jpg">
 
 <h1 align="center">Hi, 👋🏼 I'm Melisa Aras</h1>
 
